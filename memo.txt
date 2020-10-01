@@ -4,3 +4,9 @@ Go言語　install　SPARKYLINUXはSynaptic Package managerからinstall可能
 # Ubuntu 20.04 LTS  タイムゾーンには Asia/Tokyo を選択
 $ sudo apt-get update
 $ sudo apt-get install -y golang
+
+/********************************************************************************************************
+*							raspberry piにgtkをinstallする
+********************************************************************************************************/
+sudo apt-get install libgtk-3-dev
+
